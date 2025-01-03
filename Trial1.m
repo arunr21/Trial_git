@@ -3,4 +3,8 @@ clear all
 a= 10;
 b=10;
 c=a-b
-disp(c)-dev
+<<<<<<< HEAD
+disp(c)-dev;
+=======
+disp(c)
+>>>>>>> origin/master
